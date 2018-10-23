@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أنا فقير</string>
+    <string name="iam">أنا</string>
+    <string name="poor">فقير</string>
+    <string name="image_content">فحم</string>
+</resources>
